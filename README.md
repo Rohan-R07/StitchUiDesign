@@ -1,30 +1,54 @@
-# ✨ Figma-Stitch UI Showcase App
+# ✨ Modern UI Showcase App – Built with Figma, Google Stitch & Jetpack Compose
 
-This is a modern Android application built primarily to showcase a beautiful and interactive UI using [Google Stitch](https://stitch.design) and Figma. The focus of this app is UI/UX design and component interaction rather than backend logic.
-
-### 🌟 Features & Highlights
-
-- 🎨 **Custom UI design** using Figma & Google Stitch
-- 🎞️ **Lottie animations** for engaging transitions
-- 🧭 **Navigation 3** (latest Jetpack Navigation)
-- 🧩 **Custom TabRow** with smooth animations
-- 📦 **Grid & LazyColumn** layouts for content display
-- 📌 **Bottom Navigation** with dynamic behavior
-- 💎 **Gradient animation card** in Profile screen
-- 🧵 **CenterAlignedTopAppBar** with modern Material3 styling
-- ⚙️ Modular architecture to experiment with UI elements
-
-### 📁 Screens Included
-- Home
-- Profile (with animated gradient card)
-- Settings
-- Tabbed sections and more
-
-### 💡 Purpose
-The app was developed to explore and demonstrate the use of new Android UI tools and design flow using Stitch + Figma, combined with modern Jetpack Compose practices.
+This is a clean, modern, and beautifully animated Android application designed with a primary focus on **UI/UX excellence**. The entire interface was conceptualized in **Figma**, imported via **Google Stitch**, and brought to life using the latest **Jetpack Compose** tools. This project acts as a playground for experimenting with elegant UI components and seamless user interactions.
 
 ---
 
-## 🖼️ Screenshots / GIF
-*(Add screenshots or a demo GIF below this line)*
+## 🎯 Purpose of This App
 
+The intention behind developing this app was to:
+
+- Explore UI-driven development using **Figma + Stitch**
+- Demonstrate how **custom animations**, layouts, and transitions can enhance user experience
+- Build a **portfolio-ready UI demo** that showcases Jetpack Compose's flexibility
+- Experiment with the latest features from **Material 3**, **Navigation 3**, and **Lottie**
+
+---
+
+## 💡 Key Highlights & Features
+
+| Feature                        | Description |
+|-------------------------------|-------------|
+| 🎨 **UI via Google Stitch**   | UI imported from Figma directly using Stitch, retaining layout fidelity |
+| 🎞️ **Lottie Animations**     | Multiple animated icons & interactions using Lottie |
+| 🧭 **Navigation 3**           | Modern navigation architecture with clean stack management |
+| 🧩 **Custom TabRow**          | Interactive, smooth TabRow with state-based selection UI |
+| 📦 **LazyColumn & LazyGrid**  | Efficient lists and grid layouts used for content display |
+| 💠 **Animated Gradient Card** | Gradient animation in Profile screen for aesthetic interaction |
+| 🔻 **Bottom Navigation**      | Responsive bottom navigation with dynamic icons and label states |
+| 🧵 **CenterAlignedTopAppBar**| Uses Material 3's modern app bar design |
+| 🧑‍🎨 **Material You Styling**| Theme colors adapt from user preferences (light/dark mode toggle ready) |
+| 🎛️ **Custom Components**     | Reusable Compose components styled with Figma's design specs |
+
+---
+
+## 📱 Screens & Structure
+
+- **Home Screen** – Responsive grid, entry cards, Lottie icons
+- **Profile Screen** – Contains animated gradient cards, user info section
+- **Settings / Tabs** – Dynamic tabs and toggles
+- **Navigation Graph** – Clean NavHost using Navigation 3
+- **Global Theme Setup** – Light/Dark themes and typography included
+
+---
+
+## 🧑‍💻 Tech Stack
+
+- **Language:** Kotlin
+- **UI Toolkit:** Jetpack Compose + Material 3
+- **Design Tools:** Figma + Google Stitch
+- **Animations:** Lottie
+- **Architecture:** MVVM (optional), modular UI-first layout
+- **Gradle Setup:** Minimal and clean with Compose optimizations
+
+---
