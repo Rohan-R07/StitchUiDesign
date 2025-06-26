@@ -32,7 +32,5 @@ fun AllScreen() {
         ) { item ->
           HomeCard(item.icon,item.name)
         }
-
     }
-
 }
