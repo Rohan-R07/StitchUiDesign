@@ -52,3 +52,55 @@ The intention behind developing this app was to:
 - **Gradle Setup:** Minimal and clean with Compose optimizations
 
 ---
+
+
+## 📸 Screenshots
+
+Here’s a visual walkthrough of key screens in the app:
+
+
+### 🏠 Home Screen
+
+##Displays a personalized dashboard with quick access to main features.##
+
+
+https://github.com/user-attachments/assets/def54a6e-aee2-4878-adf4-9dd0bb2a7698
+
+---
+
+### 👤 Profile Screen
+Shows user information, profile actions, and animated gradient cards.
+
+
+https://github.com/user-attachments/assets/4c696190-4a2c-448e-bee8-6915bc28cf39
+
+
+---
+
+### ⚙️ Settings Screen
+
+![Settings](https://github.com/user-attachments/assets/93c572a7-fe6b-4889-9a5d-171855b4b09c)
+
+
+
+---
+
+### 🔐 Entry
+
+
+First-time entry point to insert Data (just UI)
+
+
+![NewEntry](https://github.com/user-attachments/assets/24ed387f-91b8-4027-b573-21b02d86bd47)
+
+---
+
+
+### 🔔 Notification Screen
+
+
+Displays real-time app alerts and scheduled updates.
+
+
+![Notifications](https://github.com/user-attachments/assets/d04c48bf-65d2-43d5-bef0-4613f916324c)
+
