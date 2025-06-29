@@ -48,7 +48,7 @@ The intention behind developing this app was to:
 - **UI Toolkit:** Jetpack Compose + Material 3
 - **Design Tools:** Figma + Google Stitch
 - **Animations:** Lottie
-- **Architecture:** MVVM (optional), modular UI-first layout
+- **Architecture:** MVVM, modular UI-first layout
 - **Gradle Setup:** Minimal and clean with Compose optimizations
 
 ---
